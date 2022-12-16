@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![status](https://badge.stateful.com/abritov/status.svg)](Status for @abritov)
+[![status](https://badge.stateful.com/abritov/dnd.svg)](DnD for @abritov)
+
 <!--
 **abritov/abritov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
